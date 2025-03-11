@@ -34,12 +34,6 @@ body{
     color: navy;
 }
 
-/* .imps{
-    height: 40px;
-    width: 100px;
-    max-width: max-content;
-    display: flex;
-} */
 
 .start{
     height: 40px;
@@ -51,7 +45,6 @@ body{
     border: 2px solid navy;
     border-radius: 6px;
     background-color: white;
-    /* display: none; */
 }
 
 .start:hover{
@@ -64,7 +57,6 @@ body{
     font-size: 24px;
     font-weight: 600;
     color: navy;
-    /* border: 1px solid; */
     margin-top: 120px;
     display: none;
     text-align: center;
@@ -73,7 +65,7 @@ body{
 .qna{
     height: 230px;
     width: 500px;
-    border: 1px solid;
+    /* border: 1px solid; */
     margin-top: 15px;
     display: none;
 }
